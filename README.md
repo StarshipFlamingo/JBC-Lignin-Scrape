@@ -1,2 +1,2 @@
-# hello-world
-First 
+# Python/beautiful soup to scrape JBC
+
